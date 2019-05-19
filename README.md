@@ -15,7 +15,28 @@ Finally achieve a test accuracy of 0.998.
 
 
 ## 2. Image Generator
-(...)
+Using GAN (Generative Adversarial Networks), generate simulated picture based on given condition. The G's(generator) training goal is to deceive the D(discriminators) to make D believe that the fake image is match to the condition.
+
+[Code](https://github.com/Siyuqqq/Image-Processing-ML/blob/master/ImageGenerator/ImageGenerator_GPU.ipynb)
+
+First generated picture with poor acc value
+
+![](https://github.com/Siyuqqq/Image-Processing-ML/blob/master/ImageGenerator/images/facades/0_0.png)
+
+picture generated after 22 epoch training
+
+![](https://github.com/Siyuqqq/Image-Processing-ML/blob/master/ImageGenerator/images/facades/20_200.png)
+
+picture generated after 100 epoch
+
+![](https://github.com/Siyuqqq/Image-Processing-ML/blob/master/ImageGenerator/images/facades/99_0.png)
+
+
+[reference paper](https://arxiv.org/abs/1611.07004)
+
+data loader and basic construct of GAN is based on the follow link
+
+[data lader](https://github.com/eriklindernoren/Keras-GAN/blob/master/pix2pix/data_loader.py)
 
 
 
