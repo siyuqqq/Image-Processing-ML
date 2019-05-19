@@ -27,4 +27,4 @@ The style image
 ![]('https://github.com/Siyuqqq/Image-Processing-ML/blob/master/StyleTrans/Skrik.jpg?raw=true')
 
 The output image
-![]('/StyleTrans/output.png')
+![](/StyleTrans/output.png)
