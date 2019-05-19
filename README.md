@@ -38,7 +38,7 @@ picture generated after 100 epoch
 
 data loader and basic construct of GAN is based on the follow link
 
-[data lader](https://github.com/eriklindernoren/Keras-GAN/blob/master/pix2pix/data_loader.py)
+[data loader](https://github.com/eriklindernoren/Keras-GAN/blob/master/pix2pix/data_loader.py)
 
 
 
