@@ -6,7 +6,7 @@ This project includes three part.
 Use Olivetti Faces dataset to buils a face classifier based on CNN.
 
 
-![image]('https://github.com/Siyuqqq/Image-Processing-ML/blob/master/FaceClassification_CNN/olivettifaces.gif?raw=true')
+![]('https://github.com/Siyuqqq/Image-Processing-ML/blob/master/FaceClassification_CNN/olivettifaces.gif?raw=true')
 
 Achieve a test accuracy of 0.998.
 
@@ -17,14 +17,14 @@ Achieve a test accuracy of 0.998.
 
 
 
-##3. Style Transfer
+## 3. Style Transfer
 Build a style transfer based on the pre-trained model VGG16.
 
 The input image
-![image]('https://github.com/Siyuqqq/Image-Processing-ML/blob/master/StyleTrans/professor.jpg?raw=true')
+![]('https://github.com/Siyuqqq/Image-Processing-ML/blob/master/StyleTrans/professor.jpg?raw=true')
 
 The style image
-![image]('https://github.com/Siyuqqq/Image-Processing-ML/blob/master/StyleTrans/Skrik.jpg?raw=true')
+![]('https://github.com/Siyuqqq/Image-Processing-ML/blob/master/StyleTrans/Skrik.jpg?raw=true')
 
 The output image
-![image]('https://github.com/Siyuqqq/Image-Processing-ML/blob/master/StyleTrans/professor.jpg?raw=true')
+![]('https://github.com/Siyuqqq/Image-Processing-ML/blob/master/StyleTrans/professor.jpg?raw=true')
