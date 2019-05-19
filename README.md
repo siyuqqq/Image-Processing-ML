@@ -1,5 +1,5 @@
 # Image-Processing-ML
-This project includes three part.
+This project includes three parts.
 
 ## 1. Face classification
 
@@ -8,12 +8,12 @@ Use Olivetti Faces dataset to buils a face classifier based on CNN.
 
 ![](https://github.com/Siyuqqq/Image-Processing-ML/blob/master/FaceClassification_CNN/olivettifaces.gif?raw=true)
 
-Achieve a test accuracy of 0.998.
+Finally achieve a test accuracy of 0.998.
 
 
 
 ## 2. Image Generator
-
+(...)
 
 
 
@@ -21,11 +21,12 @@ Achieve a test accuracy of 0.998.
 Build a style transfer based on the pre-trained model VGG16.
 
 The input image
-![](https://github.com/Siyuqqq/Image-Processing-ML/blob/master/StyleTrans/professor.jpg?raw=true)
+
+![](/StyleTrans/input.png)
 
 The style image
 
-![](https://github.com/Siyuqqq/Image-Processing-ML/blob/master/StyleTrans/Skrik.jpg?raw=true)
+![](/StyleTrans/style.png)
 
 The output image
 
