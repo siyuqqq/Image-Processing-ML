@@ -12,6 +12,8 @@ Use Olivetti Faces dataset to buils a face classifier based on CNN.
 
 Finally achieve a test accuracy of 0.998.
 
+[reference](https://github.com/keras-team/keras/blob/master/examples/cifar10_cnn.py)
+
 
 
 ## 2. Image Generator
@@ -56,3 +58,5 @@ The style image
 The output image
 
 ![](/StyleTrans/output.png)
+
+[reference](https://medium.com/tensorflow/neural-style-transfer-creating-art-with-deep-learning-using-tf-keras-and-eager-execution-7d541ac31398)
