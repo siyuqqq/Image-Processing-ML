@@ -1,5 +1,5 @@
 # Image-Processing-ML
-This project includes three parts. All work on a GPU machine.
+This project includes three parts. All parts work on a GPU machine.
 
 ## 1. Face classification
 
