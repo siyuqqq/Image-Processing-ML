@@ -20,6 +20,9 @@ Finally achieve a test accuracy of 0.998.
 ## 3. Style Transfer
 Build a style transfer based on the pre-trained model VGG16.
 
+https://github.com/Siyuqqq/Image-Processing-ML/blob/master/StyleTrans/StyleTrans_GPU3.ipynb - automatic!
+[Code](https://github.com/Siyuqqq/Image-Processing-ML/blob/master/StyleTrans/StyleTrans_GPU3.ipynb)
+
 The input image
 
 ![](/StyleTrans/input.png)
